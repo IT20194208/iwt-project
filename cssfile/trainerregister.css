@@ -1,0 +1,64 @@
+
+
+
+
+
+ #name2
+    {
+      border-radius:5px;
+        padding:.33rem 2rem;
+        outline:none;
+      }
+      .form
+      {
+        color:pink;
+        font-size:20px;
+        font-weight: bold;
+      }
+      .forCenter
+      {
+        margin-left:400px;
+      }
+      .fix2
+      {
+        margin-left:190px;
+
+      }
+      .button
+      {
+        background-color: brown;
+        border-radius:5px;
+        padding:5px 30px 5px 30px;
+        color:white;
+        font-weight: 700;
+        margin-left: 20px;
+      }
+      .button:hover
+      {
+        background-color: red;
+      }
+      .text
+      {
+        margin-left: 130px;
+        border-radius: 20px;
+        outline:none;
+
+      }
+      .Bdate
+      {
+         border-radius:5px;
+        padding:5px 30px 5px 60px;
+        outline:none;
+      }
+      .center
+      {
+        margin-right: 350px;
+
+      }
+      .text2
+      {
+      	border-radius: 20px;
+        outline:none;
+      }
+
+

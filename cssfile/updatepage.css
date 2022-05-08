@@ -1,0 +1,44 @@
+.name
+{
+	padding: 5px 74px 5px 46px;
+	border-radius:3px;
+}
+.formpage
+{
+	
+	margin-left: 559px;
+	font-family: monospace;
+	font-size: 18px;
+	color: white;
+}
+.h1
+{
+	text-align: center;
+	color: white;
+	font-family: monospace;
+}
+.plan
+{
+	padding: 5px 155px 5px 46px;
+	border-radius:3px;
+}
+.person
+{
+	padding: 5px 139px 5px 46px;
+	border-radius:3px;
+}
+.done
+{
+	padding: 5px 66px 5px 61px;
+	background-color: brown;
+	border-radius:3px;
+	border: 3px solid orange;
+	color: white;
+	font-weight: 700;
+	margin: 0px 0px 14px 47px;
+
+}
+.done:hover
+{
+	background-color: red;
+}

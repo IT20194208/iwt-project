@@ -1,0 +1,47 @@
+
+
+
+
+
+	
+    	
+    	.pic1right
+    	{
+    		display:block;
+    		width:47%;
+    		height:30%;
+    	}
+    	#h2id
+    	{
+          font-family:cursive;
+    	    color:red;
+    	}
+    	.div1
+    	{
+    		color:#FFDFDD;
+    		font-family:Serif; 
+        font-weight:bold;
+        font-size:17px;
+    	}
+    	
+    
+      .p1
+      {
+        font-family: cursive;
+      }
+     
+
+      
+      .avtar
+      {
+        float:right;
+
+        width:4%;
+        border-radius:50px;
+      }
+      .h1class
+      {
+        margin-left: 110px;
+      }
+
+     

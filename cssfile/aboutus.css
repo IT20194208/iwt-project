@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .paragraph
+    {
+    	border-style:solid;
+    	border-color:orange;
+
+    	
+    	width:40%;
+    	color:white;
+    	font-size:20px;
+    	padding:5px 5px 5px 5px;
+    	font-family:Sans-serif;
+    	
+    }
+    .topic
+    {
+    	color:white;
+    	font-size:70px;
+    	font-style:fantasy;
+    	
+    	font-weight:bold;
+    	
+    }
+    .pic
+    {
+    	
+    	
+    	width:35%;
+
+    	
+    }
+    .folow_us
+    {
+    	text-align:center;
+    	color:white;
+
+
+    }
+    .facebook
+    {
+    	border-radius: 120px;
+    	width:50px;
+    }
+   
+    .learn_more
+    {
+    	background-color:dodgerblue;
+    	width:30%;
+    	padding:5px 5px 5px 5px ;
+    	border-radius: 7px;
+    	color:white;
+    	outline: none;
+    	cursor: pointer;
+    	text-decoration: none;
+    	text-transform: uppercase;
+        
+    }
+     .learn_more:hover
+     {
+     	background-color:blue;
+     }
+     
+
+     
+     .pi
+     {
+     	width:50%;
+     	float:right;
+     	border-radius:10px;
+     	border-style: solid;
+     	border-color:orange;
+
+     }
+     .pii
+     {
+     	width:40%;
+     	float:right;
+     }

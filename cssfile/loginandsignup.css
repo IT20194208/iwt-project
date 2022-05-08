@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+   	.h1
+   	{
+   	  font-family:fantasy;
+   	  color:white;
+   	 
+   	  text-align:center; 
+   	}
+
+   
+
+    
+
+    
+    .form1
+    {
+    	color:pink;
+    	font-family:cursive; 
+    }
+    .form2
+    {
+    	color:pink;
+    	font-family:cursive; 
+    }
+    #name2
+    {
+    	border-radius:11px;
+        padding:.33rem 2rem;
+        outline:none;
+      
+
+    }
+    .plan
+    {
+      border-radius:11px;
+        padding:.33rem 2rem;
+        outline:none;
+        
+    }
+    #name1
+    {
+    	border-radius: 11px;
+    	padding:.33rem 2rem;
+    	outline: none;
+    	transition:1s;
+
+    }
+    .button
+    {
+    	background-color:brown;
+    	color:white;
+    	border-radius: 10px;
+    	width:8%;
+      cursor: pointer;
+    }
+    .button:hover
+    {
+      background-color: red;
+    }
+    input[type=text]:focus/*when click the input box ,at that time change input box border color as dodgerBlue*/
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+    input[type=password]:focus/*when click the input box ,at that time change input box border color as dodgerBlue*/
+    {
+    	border-color:dodgerBlue;
+    	box-shadow:0 0 8px dodgerBlue;
+    }
+     input[type=email]:focus/*when click the input box ,at that time change input box border color as dodgerBlue*/
+    {
+    	border-color:dodgerBlue;
+    	box-shadow:0 0 8px dodgerBlue;
+    }
+    
+    
+
+      #namee
+      {
+       border-radius:11px;
+       padding:.33rem 2rem;
+       outline:none;
+       transition:1s
+       }
+        /*search box*/
+
+     
+      
+      .unnamedPng
+      {
+        float:right;
+        width:280px;
+        height:280px;
+      }
+
+      .fix
+      {
+        margin-left:51px;
+      }
+      .fix2
+      {
+        margin-left:150px;
+      }
+      .height
+      {
+        border-radius:20px;
+        padding:6px 30px;
+        outline:none;
+      }
+      .Weight
+      {
+        border-radius: 20px;
+        padding:6px 30px;
+        outline:none;
+      }
+       input[type=number]:focus
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+      .link
+      {
+        color:blue;
+        font-size:20px;
+      }
+      .link2
+      {
+        color:blue;
+        font-size:20px;
+      }
+      .section
+      {
+        border-style:solid;
+        border-color: white;
+      }
+
+      
+      

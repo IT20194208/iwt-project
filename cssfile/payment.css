@@ -1,0 +1,178 @@
+
+
+
+
+
+
+/*background picture*/
+body
+    {
+    		background-image:url("../picturee/back.jpg");
+    }
+
+  ul.menu
+
+    {
+        position:sticky;
+        top:0;
+    		list-style:none;
+    		margin:0px;
+    		padding:0px;
+    		background-color:#1a0000;
+    		overflow: hidden;
+    }
+    li.menu
+    {
+    		float:left;
+    }
+    li a
+    {
+    		display:block;
+    		color:white;
+    		text-align:center;
+    		padding:14px 16px;
+    		text-decoration: none;
+    		font-family:cursive;
+    }
+    li a:hover
+    {
+    		background-color:lightblue;
+    }
+    /*search box*/
+
+      .site-search
+      {
+        float:right;
+        padding-top:5px;
+        padding-bottom: 5px;
+        padding-right:0 10px;
+
+        
+      }
+      input[type=search]
+      {
+       border-radius:20px; 
+       outline:none;
+       transition:1s;
+       padding-left:8px;
+       padding-bottom:3px;
+       padding-top:8px;
+       padding-right: 15px; 
+       margin-top:5px; 
+
+      }
+      input[type=search]:focus
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+      .site-search button
+      {
+        
+        width:18px;
+        height:18px;
+        background-image:url("../picturee/search.png"); 
+        border:0;
+        background-color:#1a0000 ;
+
+      }
+      .h1class
+        {
+            color:white;
+            font-family: fantasy;
+            text-align:center;
+            font-size:35px;
+        }
+
+
+
+     .div1
+     {
+        margin-left:400px;
+        color:white;
+        
+     }
+     .h2class
+     {
+        font-family: fantasy;
+        font-size:30px;
+        color:red;
+        margin-left:120px;
+     }
+     .plan
+     {
+        border-radius:20px;
+        padding:3px 40px 5px 5px;
+         outline:none;
+     }
+     .pmethod
+
+     {
+        border-radius:20px;
+        padding:3px 45px 5px 5px;
+        outline:none;
+     }
+     .hname
+     {
+        outline:none;
+        border-radius:20px;
+        padding:4px 40px 5px 5px;
+     }
+     .amount
+     {
+        border-radius:20px;
+        padding:4px 40px 5px 5px;
+        outline: none;
+
+     }
+     .div2
+     {
+        font-family:cursive;
+        font-size:15px;
+        font-weight:bold;
+     }
+     .submit
+     {
+         border-radius:20px;
+        padding:7px 40px 6px 30px;
+        background-color:blue;
+        margin-left:110px;
+        color:white;
+     }
+     .submit:hover
+     {
+      background-color:#480032; 
+     }
+      input[type=text]:focus
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+      input[type=submit]:focus
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+      input[type=number]:focus
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+      .edate
+      {
+        border-radius:20px;
+        padding:4px 40px 5px 5px;
+        outline: none;
+      }
+        input[type=month]:focus
+      {
+         border-color:dodgerBlue;
+         box-shadow:0 0 8px 0 dodgerBlue;
+      }
+      
+      #cv1
+      {
+        border-radius:20px;
+        padding:2px 5px 5px 5px;
+        outline: none;
+      }

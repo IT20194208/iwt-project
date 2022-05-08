@@ -1,0 +1,41 @@
+ .searching
+    {
+        /*border: 1px solid white;*/
+        width: 1200px;
+        height: 40px;
+        margin: 4px 0px 0px 137px;
+      }
+    .type1
+
+    {
+     /* border: 1px solid white;*/
+        width: 7px;
+        height: 28px;
+
+        float: left;
+        margin-left: 915px;
+        margin-top: 2px;
+            }
+    .type2
+    {
+        float: left;
+        width: 72px;
+        height: 39px;
+        /*border: 1px solid white;*/
+        margin-left: 201px;
+        margin-top: 2px;
+    }
+   input[type=search]
+   {
+        padding: 6px 30px 4px 31px;
+        border-radius: 5px;
+        outline:none;
+
+   }
+    
+    #pp1
+    {
+        width: 43%;
+        border-radius: 66px;
+    }
+
